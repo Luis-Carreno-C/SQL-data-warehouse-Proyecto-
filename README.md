@@ -4,7 +4,7 @@ Este proyecto demuestra una solución integral de **data warehousing y analític
 
 ---
 
-# 🏗️ Arquitectura de Datos
+# Arquitectura de Datos
 
 La arquitectura de datos de este proyecto sigue la **Arquitectura Medallion**, compuesta por las capas **Bronze, Silver y Gold**.
 
@@ -26,7 +26,7 @@ Contiene **datos listos para negocio**, modelados en un **esquema estrella (Star
 
 ---
 
-# 📖 Descripción del Proyecto
+# Descripción del Proyecto
 
 Este proyecto incluye:
 
@@ -44,7 +44,7 @@ Creación de **reportes y dashboards basados en SQL** para generar insights acci
 
 ---
 
-# 🚀 Requisitos del Proyecto
+# Requisitos del Proyecto
 
 ## Construcción del Data Warehouse (Data Engineering)
 
